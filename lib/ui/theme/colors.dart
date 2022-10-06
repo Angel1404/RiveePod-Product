@@ -1,4 +1,4 @@
-import 'package:flutter/animation.dart';
+import 'package:flutter/material.dart';
 
 const colorGreyCard = Color(0xffE7E3E5);
 const colorPink = Color(0xffF9B8DC);

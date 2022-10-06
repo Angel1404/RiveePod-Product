@@ -124,7 +124,7 @@ class _CardLestsGo extends StatelessWidget {
                 child: ElevatedButton(
                   onPressed: () {},
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.transparent,
+                    primary: Colors.transparent,
                     elevation: 0,
                     minimumSize: const Size(double.infinity, 55),
                     shape: RoundedRectangleBorder(
